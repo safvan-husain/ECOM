@@ -1,0 +1,10 @@
+{
+    "editor.fontSize": 12,
+    "editor.tabSize": 3,
+    "files.exclude": {
+        "**/.enc": true
+    },
+    "workbench.colorTheme": "Default Dark Modern",
+    "workbench.preferredHighContrastColorTheme": "Red",
+    "workbench.preferredDarkColorTheme": "Visual Studio Dark"
+}
